@@ -1,11 +1,13 @@
 package Code;
 
 public enum Tokens {
-	Identificadores,
+	Identificador,
 	Suma,
 	Resta,
 	Multiplicacion,
 	Division,
 	Potencia,
+	AbrePar,
+	CierraPar,
 	Error
 }
